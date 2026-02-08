@@ -1,7 +1,11 @@
-<h2 align="left">My name is Tala, <br> I'm a Front-End Developer | AI & Data Science Engineering Student<br> from Palestine.</h2>
+# 👋 Hello! I'm Tala | Front-End Developer
 
-###
+I am a Front-End Developer specializing in **React & Next.js**, focused on building clean, scalable projects with seamless user experiences.  
+I aim to make a meaningful impact in the tech world 💻✨
 
+---
+
+## 🛠️ Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -14,19 +18,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/talasafadyy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
-  </a>
-  <a href="safaditalaworksp@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/talasfdi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 💻 Current Projects
+- **[Maha Store E-Commerce](https://cafeshop-git-main-talas-projects-fe470697.vercel.app)** – Full-Stack E-Commerce Platform  
+- **[Portfolio](https://talaprojects.vercel.app/)** – Personal Portfolio Website (In Progress)  
+- **[Landing Page – Cafe](https://cafeshop-git-main-talas-projects-fe470697.vercel.app)** – Cafe Landing Page  
 
-###
- 
+> 🔗 All projects are designed with attention to detail and optimized for smooth user experience ✨
+
+---
+
+## 📱 Connect with Me
+- 📧 Email: safaditalaworksp@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/talasfdi](https://www.linkedin.com/in/talasfdi/)  
+- 📸 Instagram: [@talasafadyy](https://www.instagram.com/talasafadyy/)  
+
+---
+✨ “Create. Learn. Leave an Impact.” 
