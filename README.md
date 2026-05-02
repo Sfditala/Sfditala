@@ -23,7 +23,9 @@ I aim to make a meaningful impact in the tech world 💻✨
 ## 💻 Current Projects
 - **[Maha Store E-Commerce](https://cafeshop-git-main-talas-projects-fe470697.vercel.app)** – Full-Stack E-Commerce Platform  
 - **[Portfolio](https://talaprojects.vercel.app/)** – Personal Portfolio Website (In Progress)  
-- **[Landing Page – Cafe](https://cafeshop-git-main-talas-projects-fe470697.vercel.app)** – Cafe Landing Page  
+- **[Landing Page – Cafe](https://cafeshop-git-main-talas-projects-fe470697.vercel.app)** – Cafe Landing Page
+- **[Modavi](https://modavi.vercel.app/)** – Modavi  
+
 
 > 🔗 All projects are designed with attention to detail and optimized for smooth user experience ✨
 
